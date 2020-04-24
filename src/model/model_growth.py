@@ -7,7 +7,6 @@ from scipy.optimize import curve_fit
 from datetime import datetime
 import sys
 import ast
-import matplotlib.pyplot as plt
 
 sys.path.insert(0, '../')
 from utils import fetch_hopkins
